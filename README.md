@@ -27,7 +27,7 @@ Any implementation of the CooperDB API _MUST_ meet all of the above features.
 
 The key words _MUST_, _MUST NOT_, _REQUIRED_, _SHALL_, _SHALL NOT_, _SHOULD_, _SHOULD NOT_, _RECOMMENDED_, _MAY_, and _OPTIONAL_ in this document are to be interpreted as described in [RFC 2119](#RFC2119).
 
-The key words _MUST (BUT WE KNOW YOU WON'T)_, _SHOULD CONSIDER_, _REALLY SHOULD NOT_, _OUGHT TO_, _WOULD PROBABLY_, _MAY WISH TO_, _COULD_, _POSSIBLE_, and _MIGHT_ in this document are to be interpreted as described in[RFC 6919](#RFC6919).
+The key words _MUST (BUT WE KNOW YOU WON'T)_, _SHOULD CONSIDER_, _REALLY SHOULD NOT_, _OUGHT TO_, _WOULD PROBABLY_, _MAY WISH TO_, _COULD_, _POSSIBLE_, and _MIGHT_ in this document are to be interpreted as described in [RFC 6919](#RFC6919).
 
 # How does it work?
 
