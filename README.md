@@ -47,4 +47,4 @@ You _MAY WISH TO_ consider that Cooper DB is idealy named for [D. B. Cooper](#DB
 # Normative References
 
 * <a id="RFC2119">[RFC2119](https://tools.ietf.org/html/rfc2119) Key words for use in RFCs to Indicate Requirement Levels </a>
-* <a id="RFC2119">[RFC2119](https://tools.ietf.org/html/rfc2119) Key words for use in RFCs to Indicate Requirement Levels </a>
+* <a id="RFC6919">[RFC6919](https://tools.ietf.org/html/rfc6919) Key words for use in RFCs to Indicate Requirement Levels </a>
