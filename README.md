@@ -39,9 +39,12 @@ When leveraging an implementation of CooperDB, you _MAY WISH TO_ store arbitrary
 
 You _MAY WISH TO_ consider that Cooper DB is idealy named for [D. B. Cooper](#DBCooper) for this very reason. It can accept any payload you send it, and send them to an unknown fate.
 
-# References
+# Informative References
 
 * <a id="DBCooper">[D. B. Cooper](https://en.wikipedia.org/wiki/D._B._Cooper) Wikipedia: D. B. Cooper </a>
 * <a id="CAP">[CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem) Wikipedia: CAP Theorem </a>
+
+# Normative References
+
 * <a id="RFC2119">[RFC2119](https://tools.ietf.org/html/rfc2119) Key words for use in RFCs to Indicate Requirement Levels </a>
 * <a id="RFC2119">[RFC2119](https://tools.ietf.org/html/rfc2119) Key words for use in RFCs to Indicate Requirement Levels </a>
