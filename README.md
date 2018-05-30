@@ -7,7 +7,7 @@ This repository contains the CooperDB database specification and reference imple
 
 This database is named for [D. B. Cooper](#DBCooper), who was able to ransom a large quantity of money, and escape to an unknown fate.
 
-CooperDB is a database which solves all three of the problems of [CAP theorem](#CAP). It is able to solve these in real time, across latent network gaps, with eleven-nines of availability, and be completely partition tolerant.
+CooperDB is a database which solves all three of the problems of [CAP theorem](#CAP). It is able to solve these in real time, across latent network gaps, with eleven-nines of availability, and be completely partition tolerant. It is the world's most buzzword-compliant database.
 
 High level features of CooperDB:
 
@@ -37,7 +37,7 @@ When leveraging CooperDB, you _SHOULD CONSIDER_ the power of the /dev/null model
 
 When leveraging an implementation of CooperDB, you _MAY WISH TO_ store arbitrary payloads inside Cooper DB. This is a perfect usage of CooperDB. You _REALLY SHOULD NOT_ consider retrieving content from CooperDB, as CooperDB implementations _MUST_ return null for any request to meet all three guarantees of CAP.
 
-You _MAY WISH TO_ consider that Cooper DB is idealy named for [D. B. Cooper](#DBCooper) for this very reason. It can accept any payload you send it, and send them to an unknown fate.
+You _MAY WISH TO_ consider that Cooper DB is ideally named for [D. B. Cooper](#DBCooper) for this very reason. It can accept any payload you send it, and send them to an unknown fate.
 
 # Informative References
 
