@@ -5,7 +5,7 @@
 
 This repository contains the CooperDB database specification and reference implementation.
 
-This database is named for [D. B. Cooper](#DBCooper), who was able to ransom a large quantity of money, and escape to an unknown fate.
+This database gets its name from [D. B. Cooper](#DBCooper), a criminal who ransomed a large quantity of money and escaped to an unknown fate.
 
 CooperDB is a database which solves all three of the problems of [CAP theorem](#CAP). It is able to solve these in real time, across latent network gaps, with eleven-nines of availability, and be completely partition tolerant. It is the world's most buzzword-compliant database.
 
@@ -33,15 +33,15 @@ The key words _MUST (BUT WE KNOW YOU WON'T)_, _SHOULD CONSIDER_, _REALLY SHOULD 
 
 CooperDB is able to provide a rich feature set in very few lines of code. It uses technology capabilities of today, without needing to consider quantum entaglement.
 
-When leveraging CooperDB, you _SHOULD CONSIDER_ the power of the /dev/null model that it follows, enabling you to literally store any content in it, and never be able to retrieve it again.
+When leveraging CooperDB, you _SHOULD CONSIDER_ the power of the /dev/null model that it follows, enabling you to literally accept a request to store any type of content, and never be able to retrieve it again.
 
-When leveraging an implementation of CooperDB, you _MAY WISH TO_ store arbitrary payloads inside Cooper DB. This is a perfect usage of CooperDB. You _REALLY SHOULD NOT_ consider retrieving content from CooperDB, as CooperDB implementations _MUST_ return null for any request to meet all three guarantees of CAP.
+When leveraging an implementation of CooperDB, you _MAY WISH TO_ store arbitrary payloads inside CooperDB. This is a perfect usage of CooperDB. You _REALLY SHOULD NOT_ consider retrieving content from CooperDB, as CooperDB implementations _MUST_ return null for any request to meet all three guarantees of CAP.
 
-You _MAY WISH TO_ consider that Cooper DB is ideally named for [D. B. Cooper](#DBCooper) for this very reason. It can accept any payload you send it, and send them to an unknown fate.
+You _MAY WISH TO_ consider that CooperDB gets its name from [D. B. Cooper](#DBCooper) for this very reason. It can accept any payload you send it, and send them to an unknown fate, never to be found again.
 
 # Informative References
 
-* <a id="DBCooper">[D. B. Cooper](https://en.wikipedia.org/wiki/D._B._Cooper) Wikipedia: D. B. Cooper </a>
+* <a id="DBCooper">[D. B. Cooper](https://en.wikipedia.org/wiki/D._B._Cooper) Wikipedia: D. B. Cooper </a> - Importantly, while CooperDB gets its name from D. B. Cooper, it is not named *for* him - a man who gains notoriety for this type of criminal act is not deserving of such.
 * <a id="CAP">[CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem) Wikipedia: CAP Theorem </a>
 
 # Normative References
